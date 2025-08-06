@@ -23,19 +23,19 @@ Feel free to explore my research, CV, and writing samples through the menu above
 
 Appointments
 ======
-- **Analyst**, [The Lantau Group – Shanghai](https://lantaugroup.com)  
+- **Analyst**, [The Lantau Group – Shanghai](https://www.lantaugroup.com)  
   *Jul 2025 – Present*  
   Focus on China's electricity market reform, end-user wholesale pricing modeling, and decarbonization strategy consulting.
 
-- **Staff Research Associate**, [Scripps Institution of Oceanography](https://socalheathub.org/)  
+- **Staff Research Associate**, [Scripps Institution of Oceanography](https://socalheathub.ucsd.edu/people/)  
   *Jul 2024 – Jun 2025*  
   Developed visualizations using satellite data to support heat resilience planning in collaboration with community stakeholders.
 
-- **Staff Research Associate**, [Institute on Global Conflict and Cooperation](https://igcc.ucsd.edu/)  
+- **Staff Research Associate**, [Institute on Global Conflict and Cooperation](https://ucigcc.org)  
   *Jul 2024 – Jun 2025*  
   Analyzed China’s government-guided investment and self-reliance industrial policy in chokepoint technologies.
   
-- **Graduate Student Researcher**, [Power Transfomation Lab, UCSD](https://gps.ucsd.edu)  
+- **Graduate Student Researcher**, [Power Transfomation Lab, UCSD](https://pwrlab.org/team.html)  
   *Jul 2023 – Jun 2024*  
   Worked with Prof. Michael Davidson and Prof. Teevrat Garg on projects related to claen energy trade policy.
 
