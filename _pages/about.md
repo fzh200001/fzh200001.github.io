@@ -11,7 +11,7 @@ Welcome! I’m **Zhuohan Fang**, an Analyst at The Lantau Group in Shanghai, whe
 I hold a Master of Public Policy from UC San Diego’s School of Global Policy and Strategy, and a Bachelor's degree in Agricultural Economics from Zhejiang University.
 
 My research interests lie broadly in **international trade**, **environmental economics**, and **industrial policy**, especially how global value chains interact with the energy transition.  
-I'm currently applying to PhD programs for Fall 2026 in economics, agricultural economics, and public policy.
+I'm currently applying to PhD programs for Fall 2026 in public policy, political science, and agricultural economics.
 
 Previously, I worked on projects related to:
 - Clean energy commodity trade in Indo-Pacific region under political economy context
