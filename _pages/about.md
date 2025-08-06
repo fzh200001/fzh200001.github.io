@@ -29,15 +29,15 @@ Appointments
 
 - **Staff Research Associate**, [Scripps Institution of Oceanography](https://socalheathub.ucsd.edu/people/)  
   *Jul 2024 – Jun 2025*  
-  Developed visualizations using satellite data to support heat resilience planning in collaboration with community stakeholders.
+  Developed visualizations using satellite data to support heat resilience and urban greening planning in collaboration with community stakeholders.
 
 - **Staff Research Associate**, [Institute on Global Conflict and Cooperation](https://ucigcc.org)  
   *Jul 2024 – Jun 2025*  
-  Analyzed China’s government-guided investment and self-reliance industrial policy in chokepoint technologies.
+  Analyzed China’s government-guided investment and self-reliance industrial policy in chokepoint technologies, especially for semiconductor manufacturing.
   
 - **Graduate Student Researcher**, [Power Transfomation Lab, UCSD](https://pwrlab.org/team.html)  
   *Jul 2023 – Jun 2024*  
-  Worked with Prof. Michael Davidson and Prof. Teevrat Garg on projects related to claen energy trade policy.
+  Worked with Prof. Michael Davidson and Prof. Teevrat Garg on projects related to clean energy and critical minerals trade policy.
 
 
 
