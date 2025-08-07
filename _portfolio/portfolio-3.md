@@ -2,7 +2,7 @@
 title: "Portfolio item number 3"
 excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
-category: economics
+category: data
 permalink: /publication/2009-10-01-paper-title-number-1
 ---
 
