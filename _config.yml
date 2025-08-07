@@ -93,7 +93,7 @@ portfolio_category:
   #  title: 'Books'
   economics:
     title: 'Causal Inference'    
-  envrionment:
+  environment:
     title: 'GIS/Remote Sensing'
   data:
     title: 'Spatial Data Analysis'
