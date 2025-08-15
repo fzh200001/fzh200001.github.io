@@ -23,7 +23,7 @@ Feel free to explore my research, CV, and writing samples through the menu above
 
 Appointments
 ======
-- **Analyst**, [The Lantau Group – Shanghai]([https://www.lantaugroup.com](https://lantaugroup.com/people/Zhuohan+%28Joan%29+Fang++))  
+- **Analyst**, [The Lantau Group – Shanghai](https://lantaugroup.com/people/Zhuohan+%28Joan%29+Fang++)  
   *Jul 2025 – Present*  
   Focus on China's electricity market reform, end-user wholesale pricing modeling, and decarbonization strategy consulting.
 
