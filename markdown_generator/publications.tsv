@@ -1,4 +1,4 @@
-pub_date	title	excerpt	paper_url	slides_url
-2009-10-01	Paper Title Number 1	This paper is about the number 1. The number 2 is left for future work.	http://academicpages.github.io/files/paper1.pdf	http://academicpages.github.io/files/slides1.pdf
-2010-10-01	Paper Title Number 2	This paper is about the number 2. The number 3 is left for future work.	http://academicpages.github.io/files/paper2.pdf	http://academicpages.github.io/files/slides2.pdf
-2015-10-01	Paper Title Number 3	This paper is about the number 3. The number 4 is left for future work.	http://academicpages.github.io/files/paper3.pdf	http://academicpages.github.io/files/slides3.pdf
+title	excerpt	paper_url	slides_url
+Paper Title Number 1	This paper is about the number 1. The number 2 is left for future work.	http://academicpages.github.io/files/paper1.pdf	http://academicpages.github.io/files/slides1.pdf
+Paper Title Number 2	This paper is about the number 2. The number 3 is left for future work.	http://academicpages.github.io/files/paper2.pdf	http://academicpages.github.io/files/slides2.pdf
+Paper Title Number 3	This paper is about the number 3. The number 4 is left for future work.	http://academicpages.github.io/files/paper3.pdf	http://academicpages.github.io/files/slides3.pdf
