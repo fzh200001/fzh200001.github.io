@@ -1,11 +1,11 @@
 ---
 title: "Portfolio item number 3"
 excerpt: "Short description of portfolio item number 3<br/>
-<a href='/publication/2009-10-01-paper-title-number-3'><img src='/images/500x300.png'></a><br/>
+<a href='/portfolio/portfolio-3'><img src='/images/500x300.png'></a><br/>
 <a href='/downloads/slides.pdf'>Download Delivery</a>"
 collection: portfolio
 category: data
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /portfolio/portfolio-3
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
