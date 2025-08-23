@@ -5,7 +5,7 @@ excerpt: "Short description of portfolio item number 1<br/>
 <a href='/files/paper3.pdf'>Download Delivery</a>"
 collection: portfolio
 category: economics
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /portfolio/portfolio-1
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML.  
