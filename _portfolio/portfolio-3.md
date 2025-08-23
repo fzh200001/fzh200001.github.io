@@ -2,7 +2,7 @@
 title: "Portfolio item number 3"
 excerpt: "Short description of portfolio item number 3<br/>
 <a href='/portfolio/portfolio-3'><img src='/images/500x300.png'></a><br/>
-<a href='/downloads/slides.pdf'>Download Delivery</a>"
+<a href='/files/paper3.pdf'>Download Delivery</a>"
 collection: portfolio
 category: data
 permalink: /portfolio/portfolio-3
