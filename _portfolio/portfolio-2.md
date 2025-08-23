@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 2"
 excerpt: "Short description of portfolio item number 2<br/>
-<a href='/publication/2009-10-01-paper-title-number-1'><img src='/images/500x300.png'></a><br/>
+<a href='/publication/2010-10-01-paper-title-number-2'><img src='/images/500x300.png'></a><br/>
 <a href='/downloads/slides.pdf'>Download Delivery</a>"
 collection: portfolio
 category: environment
