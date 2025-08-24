@@ -2,7 +2,7 @@
 title: "Impact of Land Certification on Rural-Urban Migration in China"
 excerpt: "Analyzed household-level panel data on land certification and rural-urban migration in China, highlighting DID/TWFE results and policy implications. <br/>
 <a href='/portfolio/portfolio-1'><img src='/images/P1.png'></a><br/>
-<a href='/files/P1.pdf'>Download Delivery</a>"
+<a href='/files/P1.pdf'>View Delivery</a>"
 collection: portfolio
 category: economics
 permalink: /portfolio/portfolio-1
