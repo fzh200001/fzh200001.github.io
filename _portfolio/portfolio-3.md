@@ -1,8 +1,8 @@
 ---
 title: "Portfolio item number 3"
-excerpt: "Short description of portfolio item number 3<br/>
+excerpt: "Strategic Due Diligence for Human Rights in Cotton Supply Chains<br/>
 <a href='/portfolio/portfolio-3'><img src='/images/500x300.png'></a><br/>
-<a href='/files/paper3.pdf'>Download Delivery</a>"
+<a href='/files/paper3.pdf'>View Delivery</a>"
 collection: portfolio
 category: data
 permalink: /portfolio/portfolio-3
