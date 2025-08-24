@@ -2,7 +2,7 @@
 title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
-permalink: /files/paper2.pdf
+permalink: https://drive.google.com/file/d/15vrIZhBpa8_YtyXtgSO-IAqIXisQBCEv/view
 excerpt: 'with Michael Davidson, Teevrat Garg, Nathan Mariano and Lu Tong.'
 date: 2010-10-01
 venue: 'Journal 1'
