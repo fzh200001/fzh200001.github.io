@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 3"
+title: "China’s Self-Reliance Goal: How Much Progress?"
 collection: publications
 category: conferences
 permalink: /files/paper3.pdf
