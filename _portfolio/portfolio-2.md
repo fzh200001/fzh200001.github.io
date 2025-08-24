@@ -1,7 +1,7 @@
 ---
 title: "Portfolio item number 2"
 excerpt: "Short description of portfolio item number 2<br/>
-<a href='/portfolio/portfolio-2'><img src='/images/500x300.png'></a><br/>
+<a href='/portfolio/portfolio-2'><img src='/images/P2.png'></a><br/>
 <a href='/https://ucsd-greening.projects.earthengine.app/view/ehe'>View Delivery</a>"
 collection: portfolio
 category: environment
