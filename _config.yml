@@ -96,7 +96,7 @@ portfolio_category:
   environment:
     title: 'GIS/Remote Sensing'
   data:
-    title: 'Spatial Data Analysis'
+    title: 'Data Analysis & Visualization'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
