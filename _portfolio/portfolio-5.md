@@ -1,5 +1,5 @@
 ---
-title: "Is Public Transport Elastic? - Trends in King County Metro Transit Ridership before and after a Reinstatement of Fares"
+title: "Is Public Transport Elastic? - Change in King County Metro Transit Ridership after a Fare Reinstatement"
 excerpt: "King County’s COVID-era fare reinstatement reduced ridership, raising equity concerns as differential impacts across income groups remain uncertain and call for further study.<br/>
 <a href='/portfolio/portfolio-5'><img src='/images/P5.png'></a><br/>
 <a href='/files/P5.pdf'>View Delivery</a>"
