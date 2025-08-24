@@ -9,3 +9,5 @@ permalink: /portfolio/portfolio-2
 ---
 
 This interactive map allows exploration of interactions between heat, plants, and water. You can display a map and also look at patterns over time in key data layers representing heat (Land Surface Temperature or LST), plant greenness (Normalized Difference Vegetation Index or NDVI), plant cover (Tree Canopy Cover or TCC), and the combination of plant transpiration and soil evaporation (Evapotranspiration or ET).
+<br/>
+<a href="https://ucsd-greening.projects.earthengine.app/view/ehe">More info</a>
