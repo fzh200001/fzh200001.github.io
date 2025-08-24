@@ -2,7 +2,7 @@
 title: "China’s Self-Reliance Goal: How Much Progress?"
 collection: publications
 category: conferences
-permalink: /files/paper3.pdf
+permalink: https://ucigcc.org/events/the-state-of-chinese-innovation-and-industrial-policy-in-the-mid-2020s/
 excerpt: 'with Barry Naughton.'
 date: 2015-10-01
 venue: 'Journal 1'
