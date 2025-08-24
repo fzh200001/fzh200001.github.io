@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "The India-China Clean Energy Trade"
 collection: publications
 category: manuscripts
 permalink: https://drive.google.com/file/d/15vrIZhBpa8_YtyXtgSO-IAqIXisQBCEv/view
