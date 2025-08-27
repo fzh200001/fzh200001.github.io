@@ -1,6 +1,6 @@
 ---
 title: "Primary Seat Belt Enforcement and Traffic Fatalities"
-excerpt: "This study shows that primary seat belt laws significantly reduce traffic fatalities in U.S. states, though the effect diminishes over time..<br/>
+excerpt: "This study shows that primary seat belt laws significantly reduce traffic fatalities in U.S. states, though the effect diminishes over time.<br/>
 <a href='/portfolio/portfolio-7'><img src='/images/P7.png'></a><br/>
 <a href='/files/P7.pdf'>View Delivery</a>"
 collection: portfolio
