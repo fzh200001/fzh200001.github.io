@@ -1,6 +1,6 @@
 ---
 title: "Ecohydrology and Heat Explorer"
-excerpt: "This project examines urban greening as a heat adaptation strategy through satellite-based ecohydrology analysis and an interactive web application for mapping and education.<br/>
+excerpt: "This project examines urban greening as a heat adaptation strategy through satellite-based ecohydrology analysis and an interactive web application for mapping and education. Paper focusing on cooling effects of urban greening in mitigating extreme heat based on extracted satellite data are being worked in progress.<br/>
 <a href='/portfolio/portfolio-2'><img src='/images/P2.png'></a><br/>
 <a href='https://ucsd-greening.projects.earthengine.app/view/ehe'> View Delivery</a>"
 collection: portfolio
