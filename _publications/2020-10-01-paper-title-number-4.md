@@ -6,7 +6,7 @@ permalink: https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970945
 excerpt: 'with Morgan Levy.'
 date: 2020-10-01
 venue: 'Journal 1'
-slidesurl: 'https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970945'
+slidesurl: '/files/slides4.pdf'
 paperurl: 'https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/1970945'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
